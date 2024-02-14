@@ -6,3 +6,6 @@ this will be a test for pulling from the console
 
 new more lines now to use the git gui
 it is a new simplier way to use git rather than using git bash
+
+this is a new line that will be staged and probably  commited but we will reset it!!! 
+hello!!
