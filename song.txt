@@ -3,3 +3,6 @@ this new feature will be on the next version!
 
 now ill add some new lines from the browser editor
 this will be a test for pulling from the console
+
+new more lines now to use the git gui
+it is a new simplier way to use git rather than using git bash
